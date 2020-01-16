@@ -11,3 +11,9 @@ int main(void) {
 	return 0;
 	
 	}
+
+	printf("Hi how are ya");
+
+	return 0;
+
+	}
